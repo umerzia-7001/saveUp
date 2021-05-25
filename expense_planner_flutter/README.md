@@ -1,6 +1,10 @@
-# app
+# saveUp
 
-A new Flutter project.
+A Flutter project.
+
+<p align="center">
+<img src="face.png" width="300" height="250" title="Detect image">
+</p>
 
 ## Getting Started
 
