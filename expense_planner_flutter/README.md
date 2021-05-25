@@ -3,7 +3,7 @@
 A Flutter project.
 
 <p align="center">
-<img src="face.png" width="300" height="250" title="Detect image">
+<img src="Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-26 at 00.14.14.png" width="300" height="250" title="IOS platform">
 </p>
 
 ## Getting Started
